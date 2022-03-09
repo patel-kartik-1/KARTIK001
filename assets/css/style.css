@@ -21,6 +21,16 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.dawnloadbtn{
+  background: #149ddd;
+  color: #fff;
+border: none;
+}
+.dawnloadbtn:hover{
+  background: #98cfe9;
+  color: rgb(33, 82, 241);
+border: none;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/

@@ -1,26 +1,83 @@
-<h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">A passionate Php Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patel-kartik-1&label=Profile%20views&color=0e75b6&style=flat" alt="patel-kartik-1" /> </p>
+# Kartik Patel
+### Senior Backend Engineer — Scalable Systems & AI Architectures
 
-- 🌱 I’m currently learning **Symfony and laravel**
+[![Profile Views](https://komarev.com/ghpvc/?username=patel-kartik-1&label=Profile%20Views&color=6ee7b7&style=flat-square)](https://github.com/patel-kartik-1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6ee7b7?style=flat-square&logo=google-chrome&logoColor=white)](https://patel-kartik-1.github.io/KARTIK001/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-patel-97662a19b)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kartikpatelswami2@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/patel-kartik-1](https://github.com/patel-kartik-1)
+</div>
 
-- 💬 Ask me about **Php,mysql**
+---
 
-- 📫 How to reach me **kartikpatelswami2@gmail.com**
+## About Me
 
-- 📄 Know about my experiences [https://patel-kartik-1.github.io/KARTIK001/](https://patel-kartik-1.github.io/KARTIK001/)
+Senior Backend Engineer with **3+ years** of experience designing and optimizing high-performance backend systems. I specialize in **Laravel, Symfony**, and real-time architectures (WebSockets/Reverb). I've built scalable communication platforms using Twilio & APNs, AI-powered search systems with Apache Solr and LLMs, and SaaS automation across social media platforms.
 
-<h3 align="left">Connect with me:</h3>
+- 🏢 Currently working at **Techmero** as Senior Backend Developer & Architect
+- 🔭 Building systems that support **80+ production iOS apps** globally
+- 🤖 Passionate about **AI integration**, vector search, and real-time systems
+- 📄 IEEE published researcher — **93% accuracy** ML model for youth mobile usage
+- 📍 Based in **Vadodara, Gujarat, India**
+- 📫 Reach me at **kartikpatelswami2@gmail.com**
+
+---
+
+## Tech Stack
+
+**Backend & Frameworks**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Databases & Search**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Apache Solr](https://img.shields.io/badge/Apache%20Solr-D9411E?style=flat-square&logo=apache&logoColor=white)
+
+**Real-Time & Communication**
+
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=patel-kartik-1&show_icons=true&theme=dark&bg_color=09090b&title_color=6ee7b7&icon_color=6ee7b7&text_color=a1a1aa&border_color=2a2a2e&hide_border=false" alt="Kartik's GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-kartik-1&show_icons=true&layout=compact&theme=dark&bg_color=09090b&title_color=6ee7b7&text_color=a1a1aa&border_color=2a2a2e" alt="Top Languages" />
+
+</div>
+
+---
+
+## Connect
+
 <p align="left">
-<a href="https://twitter.com/patelka30187284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="patelka30187284" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kartik-patel-97662a19b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-patel-97662a19b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21262843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21262843" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kartik-patel-97662a19b" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36"/></a>
+<a href="https://stackoverflow.com/users/21262843" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="28" width="36"/></a>
+<a href="https://twitter.com/patelka30187284" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="28" width="36"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-kartik-1&show_icons=true&locale=en&layout=compact" alt="patel-kartik-1" /></p>
+<div align="center">
+<sub>© 2026 Kartik Patel · <a href="https://patel-kartik-1.github.io/KARTIK001/">patel-kartik-1.github.io/KARTIK001</a></sub>
+</div>

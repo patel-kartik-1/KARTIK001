@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://patel-kartik-1.github.io/KARTIK001/sitemap.xml
